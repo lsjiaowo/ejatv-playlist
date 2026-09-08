@@ -1,15 +1,11 @@
 #EXTM3U url-tvg=""
-# Generated: 2026-09-08T16:44:26+00:00
+# Generated: 2026-09-08T22:45:41+00:00
 #EXTINF:-1 tvg-name="23 ABC Bakersfield CA (KERO)" tvg-country="US" group-title="美国",23 ABC Bakersfield CA (KERO)
 https://content.uplynk.com/channel/ff809e6d9ec34109abfb333f0d4444b5.m3u8
 #EXTINF:-1 tvg-name="24 Hour Free Movies" tvg-country="US" group-title="美国",24 Hour Free Movies
 https://d1j2u714xk898n.cloudfront.net/scheduler/scheduleMaster/145.m3u8
 #EXTINF:-1 tvg-name="30A Darcizzle Offshore" tvg-country="US" group-title="美国",30A Darcizzle Offshore
 https://30a-tv.com/darcizzle.m3u8
-#EXTINF:-1 tvg-name="30A Georgia Hollywood Review TV" tvg-country="US" group-title="美国",30A Georgia Hollywood Review TV
-https://30a-tv.com/gh.m3u8
-#EXTINF:-1 tvg-name="30A Golf Kingdom" tvg-country="US" group-title="美国",30A Golf Kingdom
-https://30a-tv.com/feeds/vidaa/golf.m3u8
 #EXTINF:-1 tvg-name="30A Investment Pitch" tvg-country="US" group-title="美国",30A Investment Pitch
 https://30a-tv.com/feeds/xodglobal/30atv.m3u8
 #EXTINF:-1 tvg-name="30A Investment Pitch" tvg-country="US" group-title="美国",30A Investment Pitch
@@ -24,6 +20,8 @@ https://30a-tv.com/feeds/ceftech/30atvmusic.m3u8
 https://30a-tv.com/feeds/masters/30atv.m3u8
 #EXTINF:-1 tvg-name="30A The Beach Show" tvg-country="US" group-title="美国",30A The Beach Show
 https://30a-tv.com/beachy.m3u8
+#EXTINF:-1 tvg-name="30A TV Classic Movies" tvg-country="US" group-title="美国",30A TV Classic Movies
+https://30a-tv.com/feeds/pzaz/30atvmovies.m3u8
 #EXTINF:-1 tvg-name="30A We Love Cars" tvg-country="US" group-title="美国",30A We Love Cars
 https://30a-tv.com/feeds/vidaa/cars.m3u8
 #EXTINF:-1 tvg-name="3ABN Dare To Dream Network" tvg-country="US" group-title="美国",3ABN Dare To Dream Network
@@ -40,18 +38,28 @@ https://3abn.bozztv.com/3abn1/PraiseHim/smil:PraiseHim.smil/playlist.m3u8
 https://3abn.bozztv.com/3abn2/Pro_live/smil:Pro_live.smil/playlist.m3u8
 #EXTINF:-1 tvg-name="48 Hours" tvg-country="US" group-title="美国",48 Hours
 https://dai.google.com/linear/hls/event/JUr94WL2QAiVpGNHY5n5dA/master.m3u8
+#EXTINF:-1 tvg-name="ABC 13 Asheville NC (WLOS)" tvg-country="US" group-title="美国",ABC 13 Asheville NC (WLOS)
+https://linear-695.frequency.stream/dist/stirr/695/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-name="ABC 13 Las Vegas NV (KTNV)" tvg-country="US" group-title="美国",ABC 13 Las Vegas NV (KTNV)
 https://content.uplynk.com/channel/39919d3f7a074eefa8bf579214e952f9.m3u8
+#EXTINF:-1 tvg-name="ABC 15 Myrtle Beach FL (WPDE)" tvg-country="US" group-title="美国",ABC 15 Myrtle Beach FL (WPDE)
+https://linear-696.frequency.stream/dist/stirr/696/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-name="ABC 15 Phoenix AZ (KNXV-TV)" tvg-country="US" group-title="美国",ABC 15 Phoenix AZ (KNXV-TV)
 https://content.uplynk.com/channel/9deaf22aaa33461f9cac22e030ed00ec.m3u8
+#EXTINF:-1 tvg-name="ABC 22 Dayton OH (WKEF)" tvg-country="US" group-title="美国",ABC 22 Dayton OH (WKEF)
+https://linear-690.frequency.stream/dist/stirr/690/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-name="ABC 25 News Central Texas" tvg-country="US" group-title="美国",ABC 25 News Central Texas
 https://content.uplynk.com/channel/9d4e02c9c3544c269d32e6b316792c8f.m3u8
 #EXTINF:-1 tvg-name="ABC 4 Charleston SC (WCIV)" tvg-country="US" group-title="美国",ABC 4 Charleston SC (WCIV)
 https://linear-700.frequency.stream/dist/stirr/700/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-name="ABC 4 Seattle WA (KOMO)" tvg-country="US" group-title="美国",ABC 4 Seattle WA (KOMO)
 https://linear-709.frequency.stream/dist/stirr/709/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-name="ABC 6 Columbus OH (WSYX)" tvg-country="US" group-title="美国",ABC 6 Columbus OH (WSYX)
+https://linear-689.frequency.stream/dist/stirr/689/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-name="ABC 7 Denver CO (KMGH)" tvg-country="US" group-title="美国",ABC 7 Denver CO (KMGH)
 https://content.uplynk.com/channel/64ca339f04964a5e961c3207a7771bf1.m3u8
+#EXTINF:-1 tvg-name="ABC 7 Washington DC (WJLA)" tvg-country="US" group-title="美国",ABC 7 Washington DC (WJLA)
+https://linear-681.frequency.stream/dist/stirr/681/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-name="ABC Tallahassee" tvg-country="US" group-title="美国",ABC Tallahassee
 https://content.uplynk.com/channel/c66d1d2d9e2c46cea1cf22a33f6ca488.m3u8
 #EXTINF:-1 tvg-name="ABC West" tvg-country="US" group-title="美国",ABC West
@@ -76,10 +84,14 @@ https://df1zke3zj042m.cloudfront.net/playlist.m3u8
 https://d24l3uppudokci.cloudfront.net/playlist.m3u8
 #EXTINF:-1 tvg-name="Amazing Facts TV" tvg-country="US" group-title="美国",Amazing Facts TV
 https://hlspackager.akamaized.net/live/DB/AMAZING_FACTS/HLS/AMAZING_FACTS.m3u8
+#EXTINF:-1 tvg-name="AMC" tvg-country="US" group-title="美国",AMC
+http://41.205.93.154/AMC/index.m3u8
 #EXTINF:-1 tvg-name="AMC Absolute Reality" tvg-country="US" group-title="美国",AMC Absolute Reality
 https://amc-absolutereality-1-us.plex.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-name="America's Voice" tvg-country="US" group-title="美国",America's Voice
 https://content.uplynk.com/channel/26bd482ffe364a1282bc3df28bd3c21f.m3u8
+#EXTINF:-1 tvg-name="American Horrors" tvg-country="US" group-title="美国",American Horrors
+http://107.167.7.162:8081/playlist/amhor/playlist.m3u8
 #EXTINF:-1 tvg-name="America’s Funniest Home Videos" tvg-country="US" group-title="美国",America’s Funniest Home Videos
 https://d1mp1kdk5zi1ie.cloudfront.net/playlist.m3u8
 #EXTINF:-1 tvg-name="AMG TV" tvg-country="US" group-title="美国",AMG TV
@@ -112,16 +124,16 @@ https://cdn-atxn-01.vos360.video/Content/HLS/Live/channel%28616d6f49-eaec-6f7e-7
 https://cdn-atxn-01.vos360.video/Content/HLS/Live/channel%28f97b5ddc-b7e4-dff8-9f10-8c16d0833639%29/index.m3u8
 #EXTINF:-1 tvg-name="ATXN3" tvg-country="US" group-title="美国",ATXN3
 https://cdn-atxn-01.vos360.video/Content/HLS/Live/channel%28c55d1594-ad62-7434-aa17-4d71adb80f99%29/index.m3u8
+#EXTINF:-1 tvg-name="AWE" tvg-country="US" group-title="美国",AWE
+https://a-cdn.klowdtv.com/live1/awe_720p/playlist.m3u8
+#EXTINF:-1 tvg-name="AWE Encore" tvg-country="US" group-title="美国",AWE Encore
+https://a-cdn.herringnetwork.com/affiliate/awee/playlist.m3u8
 #EXTINF:-1 tvg-name="AWE Encore" tvg-country="US" group-title="美国",AWE Encore
 https://a-cdn.klowdtv.com/live1/awee/playlist.m3u8
-#EXTINF:-1 tvg-name="AWE International" tvg-country="US" group-title="美国",AWE International
-https://a-cdn.klowdtv.com/live1/aweint/playlist.m3u8
 #EXTINF:-1 tvg-name="Baby Shark TV" tvg-country="US" group-title="美国",Baby Shark TV
 https://newidco-babysharktv-1-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-name="Baby Shark TV" tvg-country="US" group-title="美国",Baby Shark TV
 https://newidco-babysharktv-1-us.roku.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-name="Bark TV" tvg-country="US" group-title="美国",Bark TV
-https://bbb-barkt-streamstak.otteravision.com/bbb/barkt/barkt.m3u8
 #EXTINF:-1 tvg-name="BATV Educational Channel" tvg-country="US" group-title="美国",BATV Educational Channel
 https://livestream.telvue.com/billerica2/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8
 #EXTINF:-1 tvg-name="BATV Government Channel" tvg-country="US" group-title="美国",BATV Government Channel
@@ -168,8 +180,6 @@ https://dai.google.com/linear/hls/event/jKwfd4apQcuxQtyRI9Q6-Q/master.m3u8
 https://www.bloomberg.com/media-manifest/streams/originals-global.m3u8
 #EXTINF:-1 tvg-name="Bloomberg Quicktake" tvg-country="US" group-title="美国",Bloomberg Quicktake
 https://bloomberg.com/media-manifest/streams/qt.m3u8
-#EXTINF:-1 tvg-name="Bloomberg TV" tvg-country="US" group-title="美国",Bloomberg TV
-http://23.237.104.106:8080/USA_BLOOMBERG/index.m3u8
 #EXTINF:-1 tvg-name="Bloomberg TV Asia" tvg-country="US" group-title="美国",Bloomberg TV Asia
 https://bloomberg.com/media-manifest/streams/asia.m3u8
 #EXTINF:-1 tvg-name="Bloomberg TV Asia Live Event" tvg-country="US" group-title="美国",Bloomberg TV Asia Live Event
@@ -208,8 +218,6 @@ http://41.205.93.154/BRAVO/index.m3u8
 https://cdnapisec.kaltura.com/p/2184561/sp/218456100/playManifest/entryId/1_68qxw4eu/format/applehttp/a.m3u8
 #EXTINF:-1 tvg-name="Buzzr" tvg-country="US" group-title="美国",Buzzr
 http://23.237.104.106:8080/USA_BUZZR/index.m3u8
-#EXTINF:-1 tvg-name="Camera Smile" tvg-country="US" group-title="美国",Camera Smile
-https://rpn.bozztv.com/gusa/gusa-camerasmile/index.m3u8
 #EXTINF:-1 tvg-name="CAN TV19" tvg-country="US" group-title="美国",CAN TV19
 https://cantv.streamguys1.com/cantv/cantv19hls/playlist.m3u8
 #EXTINF:-1 tvg-name="CAN TV21" tvg-country="US" group-title="美国",CAN TV21
@@ -224,16 +232,24 @@ https://catholictvhd-lh.akamaized.net/hls/live/2043390/CTVLiveHD/master.m3u8
 https://fastly.live.brightcove.com/6380399588112/us-east-1/734546207001/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJob3N0IjoiczFpM3ZpLmVncmVzcy50N2M3emwiLCJhY2NvdW50X2lkIjoiNzM0NTQ2MjA3MDAxIiwiZWhuIjoiZmFzdGx5LmxpdmUuYnJpZ2h0Y292ZS5jb20iLCJpc3MiOiJibGl2ZS1wbGF5YmFjay1zb3VyY2UtYXBpIiwic3ViIjoicGF0aG1hcHRva2VuIiwiYXVkIjpbIjczNDU0NjIwNzAwMSJdLCJqdGkiOiI2MzgwMzk5NTg4MTEyIn0.LYfIeObmX4AEStY_xCnPZwMJHXgOAPFMTKfztq-9F8U/playlist-hls.m3u8
 #EXTINF:-1 tvg-name="CBN News Channel" tvg-country="US" group-title="美国",CBN News Channel
 https://fastly.live.brightcove.com/6380396819112/us-east-1/734546207001/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJob3N0IjoiczFpM3ZpLmVncmVzcy50N2M3emwiLCJhY2NvdW50X2lkIjoiNzM0NTQ2MjA3MDAxIiwiZWhuIjoiZmFzdGx5LmxpdmUuYnJpZ2h0Y292ZS5jb20iLCJpc3MiOiJibGl2ZS1wbGF5YmFjay1zb3VyY2UtYXBpIiwic3ViIjoicGF0aG1hcHRva2VuIiwiYXVkIjpbIjczNDU0NjIwNzAwMSJdLCJqdGkiOiI2MzgwMzk2ODE5MTEyIn0.GDYp4IWtzwPkupEWeeOavnioVknO-Ev3UGlHvM1rE6I/playlist-hls.m3u8
-#EXTINF:-1 tvg-name="CBS" tvg-country="US" group-title="美国",CBS
-http://stream.cammonitorplus.net/1783/index.m3u8
+#EXTINF:-1 tvg-name="CBS 12 Cincinnati OH (WKRC)" tvg-country="US" group-title="美国",CBS 12 Cincinnati OH (WKRC)
+https://linear-691.frequency.stream/dist/stirr/691/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-name="CBS 12 West Palm Beach FL (WPEC)" tvg-country="US" group-title="美国",CBS 12 West Palm Beach FL (WPEC)
+https://linear-692.frequency.stream/dist/stirr/692/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-name="CBS 2 Salt Lake City UT (KUTV)" tvg-country="US" group-title="美国",CBS 2 Salt Lake City UT (KUTV)
 https://linear-707.frequency.stream/dist/stirr/707/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-name="CBS 21 Harrisburg PA (WHP)" tvg-country="US" group-title="美国",CBS 21 Harrisburg PA (WHP)
 https://linear-697.frequency.stream/dist/stirr/697/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-name="CBS 22 South Bend IN (WSBT)" tvg-country="US" group-title="美国",CBS 22 South Bend IN (WSBT)
+https://linear-693.frequency.stream/dist/stirr/693/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-name="CBS 3 Kalamazoo MI (WWMT)" tvg-country="US" group-title="美国",CBS 3 Kalamazoo MI (WWMT)
+https://linear-701.frequency.stream/dist/stirr/701/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-name="CBS 3 Omaha NE (KMTV-TV)" tvg-country="US" group-title="美国",CBS 3 Omaha NE (KMTV-TV)
 https://content.uplynk.com/channel/328d1434fb51476cb6567c74d5b2cc70.m3u8
 #EXTINF:-1 tvg-name="CBS 9 Oklahoma City OK (KWTV-DT1)" tvg-country="US" group-title="美国",CBS 9 Oklahoma City OK (KWTV-DT1)
 https://fuel-streaming-prod01.fuelmedia.io/v1/sem/e48409e7-672d-42f2-b5e0-ebb6744b0425.m3u8
+#EXTINF:-1 tvg-name="CBS News 24/7" tvg-country="US" group-title="美国",CBS News 24/7
+https://cbsn-us-vtt.cbsnstream.cbsnews.com/out/v1/ef868690d34144509eda696884bf1619/master.m3u8
 #EXTINF:-1 tvg-name="CBS News 24/7" tvg-country="US" group-title="美国",CBS News 24/7
 https://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master.m3u8
 #EXTINF:-1 tvg-name="CBS News Baltimore" tvg-country="US" group-title="美国",CBS News Baltimore
@@ -271,7 +287,7 @@ http://media.smc-host.com:1935/cycnow.com/cyc2/playlist.m3u8
 #EXTINF:-1 tvg-name="Christian Youth Channel (CYC)" tvg-country="US" group-title="美国",Christian Youth Channel (CYC)
 http://media3.smc-host.com:1935/cycnow.com/smil:cyc.smil/playlist.m3u8
 #EXTINF:-1 tvg-name="Cine Sony" tvg-country="US" group-title="美国",Cine Sony
-http://177.234.249.178:8888/SONY-MOVIES/index.m3u8
+https://a-cdn.klowdtv.com/live1/cine_720p/playlist.m3u8
 #EXTINF:-1 tvg-name="Cinecanal" tvg-country="US" group-title="美国",Cinecanal
 http://15.204.246.24:8080/CinecanalHD/index.m3u8
 #EXTINF:-1 tvg-name="Cinecanal" tvg-country="US" group-title="美国",Cinecanal
@@ -288,8 +304,6 @@ https://circle-xumo.amagi.tv/playlist.m3u8
 https://classicarts.akamaized.net/hls/live/1024257/CAS/master.m3u8
 #EXTINF:-1 tvg-name="Clubbing TV UK" tvg-country="US" group-title="美国",Clubbing TV UK
 https://a-cdn.klowdtv.com/live3/clubbingtv_720p/playlist.m3u8
-#EXTINF:-1 tvg-name="CMC-USA (California Music Channel)" tvg-country="US" group-title="美国",CMC-USA (California Music Channel)
-https://hwlive.streamingmediahosting.com/14215-live/0_obd393sh/playlist.m3u8
 #EXTINF:-1 tvg-name="CMT" tvg-country="US" group-title="美国",CMT
 http://23.237.104.106:8080/USA_CMT/index.m3u8
 #EXTINF:-1 tvg-name="Comedy Central" tvg-country="US" group-title="美国",Comedy Central
@@ -420,22 +434,22 @@ https://amg00627-banijaygroup-fearfactor-samsungnz-zhrro.amagi.tv/playlist/amg00
 https://edge-f.swagit.com/live/fernandinabeachfl/live-1-a/playlist.m3u8
 #EXTINF:-1 tvg-name="FilmRise Anime" tvg-country="US" group-title="美国",FilmRise Anime
 https://dvu7aia8rjlfm.cloudfront.net/master.m3u8
+#EXTINF:-1 tvg-name="FilmRise Westerns" tvg-country="US" group-title="美国",FilmRise Westerns
+https://dz05z8iljgvbe.cloudfront.net/master.m3u8
 #EXTINF:-1 tvg-name="FITE 24/7" tvg-country="US" group-title="美国",FITE 24/7
 https://d3d85c7qkywguj.cloudfront.net/scheduler/scheduleMaster/263.m3u8
 #EXTINF:-1 tvg-name="Fort Pierce Live Stream (Fort Pierce FL)" tvg-country="US" group-title="美国",Fort Pierce Live Stream (Fort Pierce FL)
 https://edge-f.swagit.com/live/fortpiercefl/live-1-a/playlist.m3u8
 #EXTINF:-1 tvg-name="Fox" tvg-country="US" group-title="美国",Fox
 http://stream.cammonitorplus.net/1752/index.m3u8
+#EXTINF:-1 tvg-name="FOX 11 Green Bay WI (WLUK)" tvg-country="US" group-title="美国",FOX 11 Green Bay WI (WLUK)
+https://linear-702.frequency.stream/dist/stirr/702/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-name="FOX 23 Cape Girardeau MO (KBSI-DT1)" tvg-country="US" group-title="美国",FOX 23 Cape Girardeau MO (KBSI-DT1)
 https://live.field59.com/kbsi/kbsi1/playlist.m3u8
 #EXTINF:-1 tvg-name="Fox 25 Boston (WFXT-TV)" tvg-country="US" group-title="美国",Fox 25 Boston (WFXT-TV)
 https://pubads.g.doubleclick.net/ssai/event/1kItNgwtQUe54NjjBiiTGg/master.m3u8
 #EXTINF:-1 tvg-name="FOX 45 Baltimore MD (WBFF)" tvg-country="US" group-title="美国",FOX 45 Baltimore MD (WBFF)
 https://linear-688.frequency.stream/dist/stirr/688/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-name="Fox Deportes" tvg-country="US" group-title="美国",Fox Deportes
-http://23.237.104.106:8080/USA_FOX_DEPORTES/index.m3u8
-#EXTINF:-1 tvg-name="Fox News Channel" tvg-country="US" group-title="美国",Fox News Channel
-http://138.121.15.230:9002/FOX-NEWS/index.m3u8
 #EXTINF:-1 tvg-name="Fox News Channel" tvg-country="US" group-title="美国",Fox News Channel
 http://4.30.180.36:8420/foxnews/index.m3u8?token=test
 #EXTINF:-1 tvg-name="Fox News Channel" tvg-country="US" group-title="美国",Fox News Channel
@@ -446,16 +460,14 @@ https://radiovid.foxnews.com/hls/live/661547/RADIOVID/index.m3u8
 https://live-manifest.production-public.tubi.io/live/d906efca-1302-4e29-b0d9-9a1d7a305d69/playlist.m3u8
 #EXTINF:-1 tvg-name="Fox Weather" tvg-country="US" group-title="美国",Fox Weather
 https://247wlive.foxweather.com/stream/index.m3u8
+#EXTINF:-1 tvg-name="Fox West" tvg-country="US" group-title="美国",Fox West
+http://stream.cammonitorplus.net/1799/index.m3u8
 #EXTINF:-1 tvg-name="Free Speech TV" tvg-country="US" group-title="美国",Free Speech TV
 https://edge.fstv-live-linear-channel.top.comcast.net/Content/HLS_HLSv3/Live/channel%28b168a609-19c1-2203-ae1d-6b9726f05e67%29/index.m3u8
-#EXTINF:-1 tvg-name="Free Speech TV" tvg-country="US" group-title="美国",Free Speech TV
-https://na.linear.zype.com/f2f02a72-71d0-45f3-829f-4ae51f721102/86ef0177-697d-41c4-be57-c4d1a2b83cad-hls4/live.m3u8
 #EXTINF:-1 tvg-name="FTF Sports" tvg-country="US" group-title="美国",FTF Sports
 https://1593604785.rsc.cdn77.org/FTF/FTF_SCTE.m3u8
 #EXTINF:-1 tvg-name="FTF Sports" tvg-country="US" group-title="美国",FTF Sports
 https://1657061170.rsc.cdn77.org/HLS/FTF-LINEAR.m3u8
-#EXTINF:-1 tvg-name="FTF Sports" tvg-country="US" group-title="美国",FTF Sports
-https://a-cdn.klowdtv.com/live2/ftf_720p/playlist.m3u8
 #EXTINF:-1 tvg-name="Fun Roads" tvg-country="US" group-title="美国",Fun Roads
 http://104.143.4.5:2080/funroads.m3u8
 #EXTINF:-1 tvg-name="Fun Roads TV" tvg-country="US" group-title="美国",Fun Roads TV
@@ -470,6 +482,8 @@ http://23.237.104.106:8080/USA_FXX/index.m3u8
 http://stream.mcquack.net/458/index.m3u8
 #EXTINF:-1 tvg-name="Gainesville Community 12TV (Gainesville FL)" tvg-country="US" group-title="美国",Gainesville Community 12TV (Gainesville FL)
 https://lin10.isilive.ca/live/gainesville/live/index.m3u8
+#EXTINF:-1 tvg-name="Game Show Network East" tvg-country="US" group-title="美国",Game Show Network East
+https://a-cdn.klowdtv.com/live2/gsn_720p/playlist.m3u8
 #EXTINF:-1 tvg-name="Genesis Science Network" tvg-country="US" group-title="美国",Genesis Science Network
 https://2-fss-1.streamhoster.com/pl_122/amlst:206018-2645902/playlist.m3u8
 #EXTINF:-1 tvg-name="Gilroy CMAP TV Channel 17" tvg-country="US" group-title="美国",Gilroy CMAP TV Channel 17
@@ -496,6 +510,8 @@ http://177.234.249.178:8888/GOLTV/index.m3u8
 https://2-fss-2.streamhoster.com/pl_118/201450-1248872-1/playlist.m3u8
 #EXTINF:-1 tvg-name="Gospel Truth TV" tvg-country="US" group-title="美国",Gospel Truth TV
 https://na.linear.zype.com/bf94f9f4-383c-40e0-9d49-279a4f33ab8d/f29b8836-d990-4c8d-b421-192a8f43edc4-zype/manifest.m3u8
+#EXTINF:-1 tvg-name="Great Entertainment Television" tvg-country="US" group-title="美国",Great Entertainment Television
+https://a-cdn.klowdtv.com/live2/greattv_720p/playlist.m3u8
 #EXTINF:-1 tvg-name="Greater Love TV" tvg-country="US" group-title="美国",Greater Love TV
 https://rpn.bozztv.com/dvrfl04/itv04019/index.m3u8
 #EXTINF:-1 tvg-name="Grit Xtra" tvg-country="US" group-title="美国",Grit Xtra
@@ -537,6 +553,8 @@ https://all3media-homes-under-the-hammer-1-nz.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-name="Homes Under The Hammer" tvg-country="US" group-title="美国",Homes Under The Hammer
 https://all3media-homes-under-the-hammer-1-se.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-name="HSN" tvg-country="US" group-title="美国",HSN
+https://a-cdn.klowdtv.com/live2/hsn_720p/playlist.m3u8
+#EXTINF:-1 tvg-name="HSN" tvg-country="US" group-title="美国",HSN
 https://qvc-amd-live.akamaized.net/hls/live/2034113/lshsn1us/master.m3u8
 #EXTINF:-1 tvg-name="HSN West" tvg-country="US" group-title="美国",HSN West
 https://qvc-amd-live.akamaized.net/hls/live/2034113/lshsn1uswest/master.m3u8
@@ -546,8 +564,6 @@ https://qvc-amd-live.akamaized.net/hls/live/2034113/lshsn2us/master.m3u8
 https://stream.swagit.com/live-edge/houstontx/smil:hd-16x9-2-a/playlist.m3u8
 #EXTINF:-1 tvg-name="HTV 2 Houston Television" tvg-country="US" group-title="美国",HTV 2 Houston Television
 https://stream.swagit.com/live-edge/houstontx/smil:hd-16x9-2-b/playlist.m3u8
-#EXTINF:-1 tvg-name="IFC" tvg-country="US" group-title="美国",IFC
-http://23.237.104.106:8080/USA_IFC/index.m3u8
 #EXTINF:-1 tvg-name="Impossible Quiz Show" tvg-country="US" group-title="美国",Impossible Quiz Show
 https://bbc-impossible-1-us.roku.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-name="In the kitchen" tvg-country="US" group-title="美国",In the kitchen
@@ -556,16 +572,10 @@ https://qvc-amd-live.akamaized.net/hls/live/2034113/lsqvc4us/master.m3u8
 https://amg00841-aenetworksukane-insidecrime-samsunguk-o968i.amagi.tv/playlist/amg00841-aenetworksukane-insidecrime-samsunguk/playlist.m3u8
 #EXTINF:-1 tvg-name="ION Plus" tvg-country="US" group-title="美国",ION Plus
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01438-ewscrippscompan-ionplus-tablo/playlist.m3u8
-#EXTINF:-1 tvg-name="ION TV" tvg-country="US" group-title="美国",ION TV
-http://23.237.104.106:8080/USA_ION/index.m3u8
 #EXTINF:-1 tvg-name="It Is Written TV" tvg-country="US" group-title="美国",It Is Written TV
 https://itiswrittentv.akamaized.net/xR8gyATuHMVx69u9G79DXnpNRL/playlist.m3u8
-#EXTINF:-1 tvg-name="It's Supernatural! Network" tvg-country="US" group-title="美国",It's Supernatural! Network
-https://content.uplynk.com/channel/b880a791bf95426d917a509e0c44796a.m3u8
 #EXTINF:-1 tvg-name="JBS" tvg-country="US" group-title="美国",JBS
 https://rpn3.bozztv.com/jbstv-srt/srt-push/jbstv/playlist.m3u8
-#EXTINF:-1 tvg-name="Jewish Life Television" tvg-country="US" group-title="美国",Jewish Life Television
-https://a-cdn.klowdtv.com/live3/jltv_720p/playlist.m3u8
 #EXTINF:-1 tvg-name="JOURNY TV" tvg-country="US" group-title="美国",JOURNY TV
 https://d3s3a5c7f101eb.cloudfront.net/playlist.m3u8
 #EXTINF:-1 tvg-name="Judge Nosey" tvg-country="US" group-title="美国",Judge Nosey
@@ -606,6 +616,8 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-fox4dallaskdfw-viz
 https://fuel-streaming-prod01.fuelmedia.io/v1/sem/c4067ddc-0e67-4928-b7ec-624481f721a6.m3u8
 #EXTINF:-1 tvg-name="KMSP-DT1" tvg-country="US" group-title="美国",KMSP-DT1
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-kmsp-lgus/playlist.m3u8
+#EXTINF:-1 tvg-name="KNBC-DT1" tvg-country="US" group-title="美国",KNBC-DT1
+https://nbculocallive.akamaized.net/hls/live/2037084/losangeles/stream1/master.m3u8
 #EXTINF:-1 tvg-name="KOKI-DT1" tvg-country="US" group-title="美国",KOKI-DT1
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg02104-imagicommcommun-kokibreaking-ono/playlist.m3u8
 #EXTINF:-1 tvg-name="KPVM OAN Plus" tvg-country="US" group-title="美国",KPVM OAN Plus
@@ -652,8 +664,8 @@ https://livestream.telvue.com/leominster3/f7b44cfafd5c52223d5498196c8a2e7b.sdp/p
 https://livestream.telvue.com/leominster1/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8
 #EXTINF:-1 tvg-name="LGTV" tvg-country="US" group-title="美国",LGTV
 https://livestream.telvue.com/lexmedia3/f7b44cfafd5c52223d5498196c8a2e7b.sdp/lexmedia3/stream1/playlist.m3u8
-#EXTINF:-1 tvg-name="Lifetime Movies" tvg-country="US" group-title="美国",Lifetime Movies
-http://23.237.104.106:8080/USA_LMN/index.m3u8
+#EXTINF:-1 tvg-name="Lifetime" tvg-country="US" group-title="美国",Lifetime
+http://41.205.93.154/LIFETIME/index.m3u8
 #EXTINF:-1 tvg-name="LifevisionTV" tvg-country="US" group-title="美国",LifevisionTV
 https://tgn.bozztv.com/lifevision/lifevision/index.m3u8
 #EXTINF:-1 tvg-name="Lighting Lives Blessing Nations His Light (LLBN)" tvg-country="US" group-title="美国",Lighting Lives Blessing Nations His Light (LLBN)
@@ -684,6 +696,8 @@ https://rpn.bozztv.com/gusa/gusa-mwg/index.m3u8
 https://connection3-ent-nz.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-name="Maria Vision USA" tvg-country="US" group-title="美国",Maria Vision USA
 https://1601580044.rsc.cdn77.org/live/_jcn_/amls:PALMIAMI/playlist.m3u8
+#EXTINF:-1 tvg-name="Maverick Black Cinema" tvg-country="US" group-title="美国",Maverick Black Cinema
+https://maverick-maverick-black-cinema-1-us.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-name="Maverick Black Cinema" tvg-country="US" group-title="美国",Maverick Black Cinema
 https://maverick-maverick-black-cinema-3-us.roku.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-name="MBC 1 USA" tvg-country="US" group-title="美国",MBC 1 USA
@@ -744,34 +758,30 @@ https://livestream.telvue.com/natickpegasus1/f7b44cfafd5c52223d5498196c8a2e7b.sd
 https://livestream.telvue.com/natickpegasus3/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8
 #EXTINF:-1 tvg-name="Natick Public Access Channel" tvg-country="US" group-title="美国",Natick Public Access Channel
 https://livestream.telvue.com/natickpegasus2/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8
-#EXTINF:-1 tvg-name="NBA TV" tvg-country="US" group-title="美国",NBA TV
-http://23.237.104.106:8080/USA_NBA/index.m3u8
-#EXTINF:-1 tvg-name="NBA TV" tvg-country="US" group-title="美国",NBA TV
-https://cdn1.ayitistream.com/NBATV/index.m3u8
-#EXTINF:-1 tvg-name="NBC" tvg-country="US" group-title="美国",NBC
-http://170.254.17.2/NBC/index.m3u8
-#EXTINF:-1 tvg-name="NBC" tvg-country="US" group-title="美国",NBC
-http://stream.cammonitorplus.net/1785/index.m3u8
+#EXTINF:-1 tvg-name="NBC 10 Cranston RI (WJAR)" tvg-country="US" group-title="美国",NBC 10 Cranston RI (WJAR)
+https://linear-694.frequency.stream/dist/stirr/694/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-name="NBC 10 Providence MA" tvg-country="US" group-title="美国",NBC 10 Providence MA
 https://pubads.g.doubleclick.net/ssai/event/kpannrCBQ5KwdV3Hag3Wog/master.m3u8
 #EXTINF:-1 tvg-name="NBC 26 Green Bay WI (WGBA-DT1)" tvg-country="US" group-title="美国",NBC 26 Green Bay WI (WGBA-DT1)
 https://content.uplynk.com/channel/1fbfb28ae5044f619f75ae0adb011989.m3u8
 #EXTINF:-1 tvg-name="NBC 3 Las Vegas NV (KSNV)" tvg-country="US" group-title="美国",NBC 3 Las Vegas NV (KSNV)
 https://linear-708.frequency.stream/dist/stirr/708/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-name="NBC 4 San Antonio TX (WOAI)" tvg-country="US" group-title="美国",NBC 4 San Antonio TX (WOAI)
+https://linear-703.frequency.stream/dist/stirr/703/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-name="NBC 6 Johnstown PA (WJAC)" tvg-country="US" group-title="美国",NBC 6 Johnstown PA (WJAC)
+https://linear-698.frequency.stream/dist/stirr/698/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-name="NBC 9 Steubenville OH (WTOV)" tvg-country="US" group-title="美国",NBC 9 Steubenville OH (WTOV)
+https://linear-699.frequency.stream/dist/stirr/699/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-name="NBC News NOW" tvg-country="US" group-title="美国",NBC News NOW
 https://livehub-voidnet.onrender.com/cluster/streamcore/us/NBC_REDIS.m3u8
-#EXTINF:-1 tvg-name="NBC Universo" tvg-country="US" group-title="美国",NBC Universo
-http://187.102.210.46/universo/index.m3u8
-#EXTINF:-1 tvg-name="NBC West" tvg-country="US" group-title="美国",NBC West
-http://stream.cammonitorplus.net/1800/index.m3u8
+#EXTINF:-1 tvg-name="NBC West (San Diego)" tvg-country="US" group-title="美国",NBC West (San Diego)
+https://nbculocallive.akamaized.net/hls/live/2037098/sandiego/stream1/master.m3u8
 #EXTINF:-1 tvg-name="NBCLX" tvg-country="US" group-title="美国",NBCLX
 https://nbculocallive.akamaized.net/hls/live/2037096/lx/use1.m3u8
 #EXTINF:-1 tvg-name="New Canaan Television 79 (NCTV79) (New Canaan CT)" tvg-country="US" group-title="美国",New Canaan Television 79 (NCTV79) (New Canaan CT)
 https://livestream.telvue.com/nctv791/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8
 #EXTINF:-1 tvg-name="Newsmax 2" tvg-country="US" group-title="美国",Newsmax 2
 https://a-cdn.klowdtv.com/live3/newsmax2_720p/playlist.m3u8
-#EXTINF:-1 tvg-name="Newsmax 2" tvg-country="US" group-title="美国",Newsmax 2
-https://newsmax-vizio.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-name="Newsmax 2" tvg-country="US" group-title="美国",Newsmax 2
 https://nmxdistro.akamaized.net/hls/live/529965/Live_1/index.m3u8
 #EXTINF:-1 tvg-name="Newsmax 2" tvg-country="US" group-title="美国",Newsmax 2
@@ -800,8 +810,6 @@ https://playworksdigital-ninjakidztv-1-us.xumo.wurl.tv/playlist.m3u8
 https://amg00514-noseybaxterllc-nosey-cineverse-hvu5a.amagi.tv/playlist/amg00514-noseybaxterllc-nosey-cineverse/playlist.m3u8
 #EXTINF:-1 tvg-name="Nosey" tvg-country="US" group-title="美国",Nosey
 https://wurlnosey.global.transmit.live/hls/678a8e220d785cafbf154147/v1/nosey_2/samsung_us/latest/main/hls/playlist.m3u8
-#EXTINF:-1 tvg-name="NOST" tvg-country="US" group-title="美国",NOST
-https://a-cdn.klowdtv.com/live2/nost_720p/playlist.m3u8
 #EXTINF:-1 tvg-name="NOTV New Orleans TV" tvg-country="US" group-title="美国",NOTV New Orleans TV
 http://media4.tripsmarter.com:1935/LiveTV/NOTVHD/playlist.m3u8
 #EXTINF:-1 tvg-name="NOW News Arabic" tvg-country="US" group-title="美国",NOW News Arabic
@@ -814,14 +822,22 @@ https://live.nowtelly.com/now_usa/live_usa/playlist.m3u8
 https://stream-204968.castr.net/64e0c91d08bff3041638aee3/live_a4243540d4b911f0b624bda5e9a32aa9/index.m3u8
 #EXTINF:-1 tvg-name="NowMedia Television Spanish" tvg-country="US" group-title="美国",NowMedia Television Spanish
 https://stream-204968.castr.net/64e0c91d08bff3041638aee3/live_a16fa020f4c411f09ddaa1978319689a/index.m3u8
+#EXTINF:-1 tvg-name="NRB TV" tvg-country="US" group-title="美国",NRB TV
+https://uni6rtmp.tulix.tv/nrbnetwork/myStream.sdp/playlist.m3u8
+#EXTINF:-1 tvg-name="NTD TV" tvg-country="US" group-title="美国",NTD TV
+https://ntd02.akamaized.net/HD-NY/index.m3u8
 #EXTINF:-1 tvg-name="NTD TV English" tvg-country="US" group-title="美国",NTD TV English
 https://amg17596-amg17596c1-ntdtv-worldwide-3276.playouts.now.amagi.tv/playlist/amg17596-newtangdynastytelevision-ntdtv-ntdtvworldwide/playlist.m3u8
 #EXTINF:-1 tvg-name="NTD TV English" tvg-country="US" group-title="美国",NTD TV English
 https://amg17596-ntdtv-amg17596c1-rakuten-gb-6741.playouts.now.amagi.tv/playlist/amg17596-newtangdynastytelevision-ntdtv-rakutengb/playlist.m3u8
 #EXTINF:-1 tvg-name="NTD TV English" tvg-country="US" group-title="美国",NTD TV English
 https://ntd02.akamaized.net/NTDA/index.m3u8
+#EXTINF:-1 tvg-name="NTD TV English UK" tvg-country="US" group-title="美国",NTD TV English UK
+https://ntd02.akamaized.net/NTD-UK/index.m3u8
 #EXTINF:-1 tvg-name="OAN" tvg-country="US" group-title="美国",OAN
 https://a-cdn.klowdtv.com/live1/oan_720p/playlist.m3u8
+#EXTINF:-1 tvg-name="OAN Encore" tvg-country="US" group-title="美国",OAN Encore
+https://a-cdn.herringnetwork.com/affiliate/oane/playlist.m3u8
 #EXTINF:-1 tvg-name="OAN Plus" tvg-country="US" group-title="美国",OAN Plus
 https://a-cdn.klowdtv.com/live1/oane/playlist.m3u8
 #EXTINF:-1 tvg-name="One America News Network" tvg-country="US" group-title="美国",One America News Network
@@ -836,8 +852,6 @@ https://linear-600.frequency.stream/dist/xumo/600/hls/master/playlist.m3u8
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00718-outdoorchannela-outdoortvnz-samsungnz/playlist.m3u8
 #EXTINF:-1 tvg-name="Outdoor Channel HD" tvg-country="US" group-title="美国",Outdoor Channel HD
 http://23.237.104.106:8080/USA_OUTDOOR/index.m3u8
-#EXTINF:-1 tvg-name="Overcomers TV" tvg-country="US" group-title="美国",Overcomers TV
-https://glorystartv.live/Overcomers/index.m3u8
 #EXTINF:-1 tvg-name="Pac 12 Insider" tvg-country="US" group-title="美国",Pac 12 Insider
 https://pac12-samsungus.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-name="Pacific Coast TV HMB Coastside Channel 27" tvg-country="US" group-title="美国",Pacific Coast TV HMB Coastside Channel 27
@@ -886,8 +900,6 @@ https://jukin-peopleareawesome-2-se.samsung.wurl.tv/playlist.m3u8
 https://livestream.telvue.com/phillycam1/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8
 #EXTINF:-1 tvg-name="PHLgovTV" tvg-country="US" group-title="美国",PHLgovTV
 https://livestream.telvue.com/ctyphiladelphia1/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8
-#EXTINF:-1 tvg-name="Placid" tvg-country="US" group-title="美国",Placid
-https://toy.vcdn.fyi/placid/index.m3u8
 #EXTINF:-1 tvg-name="Portlandia" tvg-country="US" group-title="美国",Portlandia
 https://amc-portlandia-1-us.xumo.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-name="Portlandia" tvg-country="US" group-title="美国",Portlandia
@@ -912,6 +924,8 @@ https://qvc-amd-live.akamaized.net/hls/live/2034113/lsqvc1us/master.m3u8
 https://qvc-amd-live.akamaized.net/hls/live/2034113/lsqvc2us/master.m3u8
 #EXTINF:-1 tvg-name="QVC 3" tvg-country="US" group-title="美国",QVC 3
 https://qvc-amd-live.akamaized.net/hls/live/2034113/lsqvc3us/master.m3u8
+#EXTINF:-1 tvg-name="QVC Live" tvg-country="US" group-title="美国",QVC Live
+https://a-cdn.klowdtv.com/live2/qvclive_720p/playlist.m3u8
 #EXTINF:-1 tvg-name="RadiantTV" tvg-country="US" group-title="美国",RadiantTV
 https://rpn.bozztv.com/radiant/radiant/radiant/index.m3u8
 #EXTINF:-1 tvg-name="Radio Tele Puissance" tvg-country="US" group-title="美国",Radio Tele Puissance
@@ -926,8 +940,6 @@ https://vod.cityofrc.us/live-6/live/stream-1/live.m3u8
 https://d2jiqiw4g5lj5k.cloudfront.net/AVSamsung/AVSamsung.m3u8
 #EXTINF:-1 tvg-name="Real Wild" tvg-country="US" group-title="美国",Real Wild
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00426-littledotstudio-realwildnz-samsungnz/playlist.m3u8
-#EXTINF:-1 tvg-name="Redseat The First" tvg-country="US" group-title="美国",Redseat The First
-https://a-cdn.klowdtv.com/live2/thefirst_720p/playlist.m3u8
 #EXTINF:-1 tvg-name="Reelz" tvg-country="US" group-title="美国",Reelz
 http://23.237.104.106:8080/USA_REELZ/index.m3u8
 #EXTINF:-1 tvg-name="Retro TV" tvg-country="US" group-title="美国",Retro TV
@@ -954,8 +966,6 @@ https://wurlrifftrax.global.transmit.live/hls/68222b9cbe836edbe6f39e74/playlist.
 https://livestream.telvue.com/riflecmttv2/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8
 #EXTINF:-1 tvg-name="RightNow TV" tvg-country="US" group-title="美国",RightNow TV
 https://2-fss-1.streamhoster.com/pl_154/amlst:205448-2145652/rightnowtv.m3u8
-#EXTINF:-1 tvg-name="RightNow TV" tvg-country="US" group-title="美国",RightNow TV
-https://a-cdn.klowdtv.com/live2/rightnowtv_720p/playlist.m3u8
 #EXTINF:-1 tvg-name="Roar" tvg-country="US" group-title="美国",Roar
 https://fast-channels.sinclairstoryline.com/TBD/index.m3u8
 #EXTINF:-1 tvg-name="RVTV" tvg-country="US" group-title="美国",RVTV
@@ -1018,12 +1028,8 @@ https://all3media-soreal-1-gb.samsung.wurl.tv/playlist.m3u8
 https://cdnlive.myspirit.tv/LS-ATL-43240-2/index.m3u8
 #EXTINF:-1 tvg-name="SportsGrid" tvg-country="US" group-title="美国",SportsGrid
 https://sportsgrid-samsungus.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-name="Starz Cinema" tvg-country="US" group-title="美国",Starz Cinema
-http://23.237.104.106:8080/USA_STARZ_CINEMA/index.m3u8
-#EXTINF:-1 tvg-name="Starz Comedy" tvg-country="US" group-title="美国",Starz Comedy
-http://23.237.104.106:8080/USA_STARZ_COMEDY/index.m3u8
-#EXTINF:-1 tvg-name="Starz Kids &amp; Family" tvg-country="US" group-title="美国",Starz Kids & Family
-http://23.237.104.106:8080/USA_STARZ_FAMILY/index.m3u8
+#EXTINF:-1 tvg-name="Starz" tvg-country="US" group-title="美国",Starz
+http://23.237.104.106:8080/USA_STARZ/index.m3u8
 #EXTINF:-1 tvg-name="Stories by AMC" tvg-country="US" group-title="美国",Stories by AMC
 https://amc-amcpresents-1-us.xumo.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-name="Strongman" tvg-country="US" group-title="美国",Strongman
@@ -1032,14 +1038,6 @@ https://rightsboosterltd-scl-1-eu.rakuten.wurl.tv/playlist.m3u8
 https://rightsboosterltd-scl-1-gb.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-name="Strongman Champions League" tvg-country="US" group-title="美国",Strongman Champions League
 https://rightsboosterltd-scl-2-eu.rakuten.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-name="Studio Universal Latin America" tvg-country="US" group-title="美国",Studio Universal Latin America
-http://138.121.15.230:9002/STUDIO-UNIVERSAL/index.m3u8
-#EXTINF:-1 tvg-name="Studio Universal Latin America" tvg-country="US" group-title="美国",Studio Universal Latin America
-http://15.204.246.24:8080/StudioUniversalHD/index.m3u8
-#EXTINF:-1 tvg-name="Studio Universal Latin America" tvg-country="US" group-title="美国",Studio Universal Latin America
-http://190.93.224.42/STUDIO-UNIVERSAL/index.m3u8
-#EXTINF:-1 tvg-name="Studio Universal Latin America" tvg-country="US" group-title="美国",Studio Universal Latin America
-http://45.162.193.35/STUDIO-UNIVERSAL/index.m3u8
 #EXTINF:-1 tvg-name="SUMtv English" tvg-country="US" group-title="美国",SUMtv English
 https://bozztv.com/uni10rtmp/ssstv1-cdn/smil:ssstv1web.smil/playlist.m3u8
 #EXTINF:-1 tvg-name="SUMtv English" tvg-country="US" group-title="美国",SUMtv English
@@ -1062,6 +1060,8 @@ https://broadcast.tbnpacific.org.au:4430/stream/TBNPacificTV/playlist.m3u8
 https://a-cdn.klowdtv.com/live3/tbn_720p/playlist.m3u8
 #EXTINF:-1 tvg-name="TCT" tvg-country="US" group-title="美国",TCT
 https://d16yptpbiuldtt.cloudfront.net/0b4ebb8be00f40ee83c024f661a85dcd/index.m3u8
+#EXTINF:-1 tvg-name="TCT Network" tvg-country="US" group-title="美国",TCT Network
+https://a-cdn.klowdtv.com/live2/tct_720p/playlist.m3u8
 #EXTINF:-1 tvg-name="TD Ameritrade Network" tvg-country="US" group-title="美国",TD Ameritrade Network
 https://content.uplynk.com/channel/f9aafa1f132e40af9b9e7238bc18d128.m3u8
 #EXTINF:-1 tvg-name="Tennis Channel" tvg-country="US" group-title="美国",Tennis Channel
@@ -1140,26 +1140,20 @@ https://reflector.watchtstv.com/hls/livestream.m3u8
 https://livestream.telvue.com/templeuni1/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8
 #EXTINF:-1 tvg-name="TVS Bowling Network" tvg-country="US" group-title="美国",TVS Bowling Network
 https://rpn.bozztv.com/gusa/gusa-tvsbowling/index.m3u8
-#EXTINF:-1 tvg-name="TVS Boxing" tvg-country="US" group-title="美国",TVS Boxing
-https://rpn.bozztv.com/gusa/gusa-tvsboxing/index.m3u8
-#EXTINF:-1 tvg-name="TVS Classic Movies" tvg-country="US" group-title="美国",TVS Classic Movies
-https://rpn.bozztv.com/gusa/gusa-tvsclassicmovies/index.m3u8
-#EXTINF:-1 tvg-name="TVS Nostalgia" tvg-country="US" group-title="美国",TVS Nostalgia
-https://rpn.bozztv.com/gusa/gusa-nostalgia/index.m3u8
+#EXTINF:-1 tvg-name="TVS Classic Sports" tvg-country="US" group-title="美国",TVS Classic Sports
+https://rpn.bozztv.com/gusa/gusa-tvs/index.m3u8
+#EXTINF:-1 tvg-name="TVS Pet Parade Network" tvg-country="US" group-title="美国",TVS Pet Parade Network
+https://rpn.bozztv.com/gusa/gusa-petparadenetwork/index.m3u8
 #EXTINF:-1 tvg-name="TVS Select Network" tvg-country="US" group-title="美国",TVS Select Network
 https://rpn.bozztv.com/gusa/gusa-tvsselect/index.m3u8
-#EXTINF:-1 tvg-name="TVS Sports Bureau" tvg-country="US" group-title="美国",TVS Sports Bureau
-https://rpn.bozztv.com/gusa/gusa-tvssportsbureau/index.m3u8
 #EXTINF:-1 tvg-name="TVS Tavern" tvg-country="US" group-title="美国",TVS Tavern
 https://rpn.bozztv.com/gusa/gusa-tavern/index.m3u8
 #EXTINF:-1 tvg-name="TVS Travel Network" tvg-country="US" group-title="美国",TVS Travel Network
 https://rpn.bozztv.com/gusa/gusa-tvstravel/index.m3u8
 #EXTINF:-1 tvg-name="TVS Western Movie" tvg-country="US" group-title="美国",TVS Western Movie
 https://rpn.bozztv.com/gusa/gusa-tvswesternmovies/index.m3u8
-#EXTINF:-1 tvg-name="TVSA Government Channel" tvg-country="US" group-title="美国",TVSA Government Channel
-https://edge-f.swagit.com/live/sanantoniotx/live-1-a/playlist.m3u8
-#EXTINF:-1 tvg-name="TVSA Public Channel" tvg-country="US" group-title="美国",TVSA Public Channel
-https://edge-f.swagit.com/live/sanantoniotx/live-2-a/playlist.m3u8
+#EXTINF:-1 tvg-name="TVSConsumerDirect" tvg-country="US" group-title="美国",TVSConsumerDirect
+https://rpn.bozztv.com/gusa/gusa-ConsumerDirect/index.m3u8
 #EXTINF:-1 tvg-name="UCTV University of California" tvg-country="US" group-title="美国",UCTV University of California
 https://59e8e1c60a2b2.streamlock.net/509/509.stream/playlist.m3u8
 #EXTINF:-1 tvg-name="UN Web TV" tvg-country="US" group-title="美国",UN Web TV
@@ -1168,8 +1162,6 @@ https://cdnapi.kaltura.com/p/2503451/sp/250345100/playManifest/entryId/1_gb6tjml
 https://all3media-international-undercoverboss-1-au.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-name="Undercover Boss" tvg-country="US" group-title="美国",Undercover Boss
 https://all3media-international-undercoverboss-1-nz.samsung.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-name="Univision" tvg-country="US" group-title="美国",Univision
-http://190.197.41.183/Univision/index.m3u8
 #EXTINF:-1 tvg-name="Unsolved Mysteries" tvg-country="US" group-title="美国",Unsolved Mysteries
 https://d31z96rdrmwfsp.cloudfront.net/master.m3u8
 #EXTINF:-1 tvg-name="USA TODAY" tvg-country="US" group-title="美国",USA TODAY
@@ -1192,20 +1184,12 @@ https://jk3lzkn4lw79-hls-live.5centscdn.com/VTN2/bcaafe9ad8d42834b08e762ac58596b
 https://2-fss-2.streamhoster.com/pl_118/amlst:204972-1949480/playlist.m3u8
 #EXTINF:-1 tvg-name="W14DK-D 14.2 NEWSNET" tvg-country="US" group-title="美国",W14DK-D 14.2 NEWSNET
 https://2-fss-2.streamhoster.com/pl_118/204972-1954106-1/playlist.m3u8
-#EXTINF:-1 tvg-name="WATC The POINT Network" tvg-country="US" group-title="美国",WATC The POINT Network
-https://tgn.bozztv.com/watc57/watc57-2/watc57-2/index.m3u8
-#EXTINF:-1 tvg-name="WATC TV57" tvg-country="US" group-title="美国",WATC TV57
-https://tgn2.bozztv.com/watc57/watc57-1/watc57-1/index.m3u8
 #EXTINF:-1 tvg-name="WaypointTV" tvg-country="US" group-title="美国",WaypointTV
 https://amg00381-waypointcommuni-waypointtv-xumo-syiru.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-name="WBTV News" tvg-country="US" group-title="美国",WBTV News
 https://d2ugl2g2gz1giy.cloudfront.net/index.m3u8
 #EXTINF:-1 tvg-name="WCOT 13 (Tallahassee FL)" tvg-country="US" group-title="美国",WCOT 13 (Tallahassee FL)
 https://stream.talgov.net/WCOT/smil:WCOT.smil/playlist.m3u8
-#EXTINF:-1 tvg-name="We TV" tvg-country="US" group-title="美国",We TV
-http://170.254.17.2/WE_TV/index.m3u8
-#EXTINF:-1 tvg-name="We TV" tvg-country="US" group-title="美国",We TV
-https://streamer1.nexgen.bz/WE_TV/index.m3u8
 #EXTINF:-1 tvg-name="WFLD-DT1" tvg-country="US" group-title="美国",WFLD-DT1
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-wfld-lgus/playlist.m3u8
 #EXTINF:-1 tvg-name="WFTT-DT1" tvg-country="US" group-title="美国",WFTT-DT1
@@ -1224,14 +1208,12 @@ http://23.237.104.106:8080/USA_WGN/index.m3u8
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg02104-imagicommcommun-whbqbreaking-ono/playlist.m3u8
 #EXTINF:-1 tvg-name="Whiplash" tvg-country="US" group-title="美国",Whiplash
 https://cdn.whiplash.cc/whiplash/index.m3u8
-#EXTINF:-1 tvg-name="Willow" tvg-country="US" group-title="美国",Willow
-http://tvsen7.aynascope.net/rEBp38Ax/index.m3u8
-#EXTINF:-1 tvg-name="Willow" tvg-country="US" group-title="美国",Willow
-https://tvsen5.aynaott.com/willowhd/index.m3u8
 #EXTINF:-1 tvg-name="Willow Sports" tvg-country="US" group-title="美国",Willow Sports
 https://amg01269-amg01269c1-sportstribal-emea-5204.playouts.now.amagi.tv/ts-eu-w1-n2/playlist/amg01269-willowtvfast-willowplus-sportstribalemea/playlist.m3u8
 #EXTINF:-1 tvg-name="Window TV" tvg-country="US" group-title="美国",Window TV
 https://cdn.whiplash.cc/whiplash-windowtv/index.m3u8
+#EXTINF:-1 tvg-name="Wine Watches &amp; Whiskey" tvg-country="US" group-title="美国",Wine Watches & Whiskey
+https://www-on-stirr.b-cdn.net/Wine-Watches-and-Whiskey/playlist.m3u8
 #EXTINF:-1 tvg-name="Wine Watches Whiskey" tvg-country="US" group-title="美国",Wine Watches Whiskey
 https://www-on-freecast.b-cdn.net/WWW-on-Freecast/index.m3u8
 #EXTINF:-1 tvg-name="Wipeout Xtra" tvg-country="US" group-title="美国",Wipeout Xtra
@@ -1270,6 +1252,8 @@ https://mdstrm.com/live-stream-playlist/67ed74e8af482ba71d47fd7b.m3u8
 https://content.uplynk.com/channel/1992858a34c3423dbdad491d07ae6f75.m3u8
 #EXTINF:-1 tvg-name="WTTG-DT1" tvg-country="US" group-title="美国",WTTG-DT1
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-fox5dcwttg-vizious/playlist.m3u8
+#EXTINF:-1 tvg-name="WTVJ-DT1" tvg-country="US" group-title="美国",WTVJ-DT1
+https://nbculocallive.akamaized.net/hls/live/2037498/miami/stream1/master.m3u8
 #EXTINF:-1 tvg-name="WTVT-DT1" tvg-country="US" group-title="美国",WTVT-DT1
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-fox13tampabaywtvt-vizious/playlist.m3u8
 #EXTINF:-1 tvg-name="WTXF-DT1" tvg-country="US" group-title="美国",WTXF-DT1
@@ -1347,9 +1331,9 @@ https://58cc65c534c67.streamlock.net/alkarmatv.com/alkarmame2.smil/playlist.m3u8
 #EXTINF:-1 tvg-name="Alkarma TV Youth &amp; English" tvg-country="US" group-title="美国",Alkarma TV Youth & English
 https://5aafcc5de91f1.streamlock.net/alkarmatv.com/alkarmaus.smil/playlist.m3u8
 #EXTINF:-1 tvg-name="AMC Latin America" tvg-country="US" group-title="美国",AMC Latin America
+http://15.204.246.24:8080/AMCHD/index.m3u8
+#EXTINF:-1 tvg-name="AMC Latin America" tvg-country="US" group-title="美国",AMC Latin America
 http://177.234.249.178:8888/AMC/index.m3u8
-#EXTINF:-1 tvg-name="AMC Latin America Brazil" tvg-country="US" group-title="美国",AMC Latin America Brazil
-http://170.83.49.66:8083/AMCHD/index.m3u8
 #EXTINF:-1 tvg-name="AXN Latin America" tvg-country="US" group-title="美国",AXN Latin America
 http://138.121.15.230:9002/AXN/index.m3u8
 #EXTINF:-1 tvg-name="AXN Latin America" tvg-country="US" group-title="美国",AXN Latin America
@@ -1376,8 +1360,6 @@ https://amg00082-tarima-amg00082c1-tunein-us-7960.playouts.now.amagi.tv/playlist
 http://15.204.246.24:8080/DHEHD/index.m3u8
 #EXTINF:-1 tvg-name="DHE" tvg-country="US" group-title="美国",DHE
 http://177.234.249.178:8888/PARAMOUNT/index.m3u8
-#EXTINF:-1 tvg-name="DreamWorks Channel Latin America" tvg-country="US" group-title="美国",DreamWorks Channel Latin America
-http://138.121.15.230:9002/DREAMWORKS/index.m3u8
 #EXTINF:-1 tvg-name="EBS Cinema" tvg-country="US" group-title="美国",EBS Cinema
 https://rpn.bozztv.com/ebstv/ebscinema/index.m3u8
 #EXTINF:-1 tvg-name="EBS Musika" tvg-country="US" group-title="美国",EBS Musika
@@ -1444,10 +1426,6 @@ http://177.234.249.178:8888/HOLA-TV/index.m3u8
 https://video1.getstreamhosting.com:1936/8055/8055/playlist.m3u8
 #EXTINF:-1 tvg-name="Lao-Thai TV" tvg-country="US" group-title="美国",Lao-Thai TV
 https://livefta.malimarcdn.com/ftaedge00/laothaius.sdp/playlist.m3u8
-#EXTINF:-1 tvg-name="Lifetime Latin America" tvg-country="US" group-title="美国",Lifetime Latin America
-http://181.119.66.28:8081/Lifetime-HD/index.m3u8
-#EXTINF:-1 tvg-name="Lifetime Latin America Brazil" tvg-country="US" group-title="美国",Lifetime Latin America Brazil
-http://170.83.16.50/LIFETIME/index.m3u8
 #EXTINF:-1 tvg-name="Logos TV" tvg-country="US" group-title="美国",Logos TV
 https://597f64b67707a.streamlock.net/logoschannel.com/logostv.smil/playlist.m3u8
 #EXTINF:-1 tvg-name="Logos TV" tvg-country="US" group-title="美国",Logos TV
@@ -1458,30 +1436,14 @@ https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-drama-usa/ea2f5db904aff22
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-masr-usa/cd8d40acdab28aac0582faa3bd3983f1/index.m3u8
 #EXTINF:-1 tvg-name="MTV Latin America" tvg-country="US" group-title="美国",MTV Latin America
 http://15.204.246.24:8080/MTVHD/index.m3u8
-#EXTINF:-1 tvg-name="National Geographic Latin America" tvg-country="US" group-title="美国",National Geographic Latin America
-http://15.204.246.24:8080/NatGeoHD/index.m3u8
-#EXTINF:-1 tvg-name="National Geographic Latin America" tvg-country="US" group-title="美国",National Geographic Latin America
-http://177.234.249.178:8888/NATGEO/index.m3u8
-#EXTINF:-1 tvg-name="National Geographic Latin America" tvg-country="US" group-title="美国",National Geographic Latin America
-http://181.119.66.28:8081/NATGEO-HD/index.m3u8
-#EXTINF:-1 tvg-name="National Geographic Latin America" tvg-country="US" group-title="美国",National Geographic Latin America
-http://190.93.224.42/NAT-GEO/index.m3u8
-#EXTINF:-1 tvg-name="National Geographic Latin America" tvg-country="US" group-title="美国",National Geographic Latin America
-http://45.162.193.35/NATGEO/index.m3u8
 #EXTINF:-1 tvg-name="Newsmax Spanish" tvg-country="US" group-title="美国",Newsmax Spanish
 https://n1ottesorkatv.akamaized.net/hls/live/2113795/Live_1/index.m3u8
 #EXTINF:-1 tvg-name="Nickelodeon Latin America" tvg-country="US" group-title="美国",Nickelodeon Latin America
 http://15.204.246.24:8080/NickHD/index.m3u8
 #EXTINF:-1 tvg-name="Nickelodeon Latin America" tvg-country="US" group-title="美国",Nickelodeon Latin America
 http://177.234.249.178:8888/NICK/index.m3u8
-#EXTINF:-1 tvg-name="Pasiones Latin America" tvg-country="US" group-title="美国",Pasiones Latin America
-http://15.204.246.24:8080/PasionesHD/index.m3u8
-#EXTINF:-1 tvg-name="Pasiones Latin America" tvg-country="US" group-title="美国",Pasiones Latin America
-http://177.234.249.178:8888/PASIONES/index.m3u8
-#EXTINF:-1 tvg-name="Pasiones Latin America" tvg-country="US" group-title="美国",Pasiones Latin America
-http://45.162.193.35/PASIONESHD/index.m3u8
-#EXTINF:-1 tvg-name="Pasiones Latin America" tvg-country="US" group-title="美国",Pasiones Latin America
-http://45.224.97.181:9999/Pasiones/index.m3u8
+#EXTINF:-1 tvg-name="Nickelodeon Latin America" tvg-country="US" group-title="美国",Nickelodeon Latin America
+http://190.93.224.42/NICK/index.m3u8
 #EXTINF:-1 tvg-name="Payam Javan TV" tvg-country="US" group-title="美国",Payam Javan TV
 https://uni01rtmp.tulix.tv/kensecure/pjtv.stream/playlist.m3u8
 #EXTINF:-1 tvg-name="Payam-e-Afghan TV" tvg-country="US" group-title="美国",Payam-e-Afghan TV
@@ -1501,11 +1463,11 @@ https://2-fss-2.streamhoster.com/pl_120/amlst:206708-4202592/playlist.m3u8
 #EXTINF:-1 tvg-name="Sony Channel Andes" tvg-country="US" group-title="美国",Sony Channel Andes
 http://15.204.246.24:8080/SonyHD/index.m3u8
 #EXTINF:-1 tvg-name="Sony Channel Andes" tvg-country="US" group-title="美国",Sony Channel Andes
-http://177.234.249.178:8888/SONY-TV/index.m3u8
-#EXTINF:-1 tvg-name="Sony Channel Andes" tvg-country="US" group-title="美国",Sony Channel Andes
 http://181.119.66.28:8081/SONY-HD/index.m3u8
 #EXTINF:-1 tvg-name="Sony Channel Andes" tvg-country="US" group-title="美国",Sony Channel Andes
 http://190.93.224.42/SONY-CHANNEL/index.m3u8
+#EXTINF:-1 tvg-name="Sony KAL Hindi" tvg-country="US" group-title="美国",Sony KAL Hindi
+https://wurlsonypicturestv.global.transmit.live/hls/68deeb1c0238cda82df543dd/v1/spt_sonykal_1/lg_us/latest/main/hls/playlist.m3u8
 #EXTINF:-1 tvg-name="Star Channel Latin America" tvg-country="US" group-title="美国",Star Channel Latin America
 http://15.204.246.24:8080/STARCHANNELHD/index.m3u8
 #EXTINF:-1 tvg-name="Star Channel Latin America" tvg-country="US" group-title="美国",Star Channel Latin America
@@ -1546,8 +1508,6 @@ http://177.234.249.178:8888/SYFY/index.m3u8
 https://tgn.bozztv.com/vbstvcdn/vbstv/ngrp:vbstv_all/playlist.m3u8
 #EXTINF:-1 tvg-name="VOA Persian" tvg-country="US" group-title="美国",VOA Persian
 https://voa-ingest.akamaized.net/hls/live/2033876/tvmc07/playlist.m3u8
-#EXTINF:-1 tvg-name="WATC The Loop" tvg-country="US" group-title="美国",WATC The Loop
-https://tgn.bozztv.com/watc57/watc57-theloop/watc57-theloop/index.m3u8
 #EXTINF:-1 tvg-name="Zarin TV" tvg-country="US" group-title="美国",Zarin TV
 https://fl1002.bozztv.com/gf-zarintv/index.m3u8
 #EXTINF:-1 tvg-name="CGNTV Japan" tvg-country="JP" group-title="日本",CGNTV Japan
@@ -1570,6 +1530,8 @@ https://vs-hls-pushb-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_arabic
 https://amg00793-amg00793c6-xumo-us-2669.playouts.now.amagi.tv/BBCStudios-BBCEarthA-hls/playlist.m3u8
 #EXTINF:-1 tvg-name="BBC News" tvg-country="UK" group-title="英国",BBC News
 https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/mobile_wifi_main_hd_abr_v2.m3u8
+#EXTINF:-1 tvg-name="BBC News Europe" tvg-country="UK" group-title="英国",BBC News Europe
+http://stream.mcquack.net/85/index.m3u8
 #EXTINF:-1 tvg-name="BBC News North America" tvg-country="UK" group-title="英国",BBC News North America
 http://23.237.104.106:8080/USA_BBC_NEWS/index.m3u8
 #EXTINF:-1 tvg-name="BBC Persian" tvg-country="UK" group-title="英国",BBC Persian
@@ -1622,8 +1584,6 @@ https://live.livetvstream.co.uk/LS-63503-4/index.m3u8
 https://live.playstop.me/1816184091/index.m3u8
 #EXTINF:-1 tvg-name="Iran International" tvg-country="UK" group-title="英国",Iran International
 https://live.playstop.me/LS-63503-4/index.m3u8
-#EXTINF:-1 tvg-name="Kanshi TV" tvg-country="UK" group-title="英国",Kanshi TV
-https://live.kanshitv.co.uk/mobile/kanshitvkey.m3u8
 #EXTINF:-1 tvg-name="Mr Bean Live Action" tvg-country="UK" group-title="英国",Mr Bean Live Action
 https://amg00627-amg00627c40-rakuten-uk-5725.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mrbeanpopupcc-rakutenuk/playlist.m3u8
 #EXTINF:-1 tvg-name="Noor TV" tvg-country="UK" group-title="英国",Noor TV
@@ -1648,12 +1608,16 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01753-narrativeentert-popkids-lggb/
 https://jmp2.uk/stvp-GBBC430000128
 #EXTINF:-1 tvg-name="Sangat TV" tvg-country="UK" group-title="英国",Sangat TV
 https://mumt06.tangotv.in/qYyB8fXVSANGATTV/index.m3u8
+#EXTINF:-1 tvg-name="Setanta Sports" tvg-country="UK" group-title="英国",Setanta Sports
+http://stream.mcquack.net/313/index.m3u8
 #EXTINF:-1 tvg-name="Space Live" tvg-country="UK" group-title="英国",Space Live
 https://d111bsx9oooqoh.cloudfront.net/playlist.m3u8
 #EXTINF:-1 tvg-name="Takbeer TV" tvg-country="UK" group-title="英国",Takbeer TV
 https://cd198.anystream.uk:9092/iqapp/t5kb86tv/playlist.m3u8
 #EXTINF:-1 tvg-name="Teletubbies" tvg-country="UK" group-title="英国",Teletubbies
 https://dv8lsrd8fecw9.cloudfront.net/master.m3u8
+#EXTINF:-1 tvg-name="Teletubbies" tvg-country="UK" group-title="英国",Teletubbies
+https://dy9gbyiaxw0rb.cloudfront.net/master.m3u8
 #EXTINF:-1 tvg-name="Tiny POP" tvg-country="UK" group-title="英国",Tiny POP
 https://amg01753-narrativeentert-tinypop-samsunguk-hvvb7.amagi.tv/playlist/amg01753-narrativeentert-tinypop-samsunguk/playlist.m3u8
 #EXTINF:-1 tvg-name="Tiny Pop" tvg-country="UK" group-title="英国",Tiny Pop
@@ -1662,12 +1626,12 @@ https://jmp2.uk/stvp-GBBD3200003T6
 https://cdn-shop-lc-01.akamaized.net/Content/HLS_HLS/Live/channel%28TJCOTT%29/index.m3u8
 #EXTINF:-1 tvg-name="TJC" tvg-country="UK" group-title="英国",TJC
 https://cdn-shop-lc-01.vos360.video/Content/HLS_HLS/Live/channel%28HDTJCcustomGFX%29/master.m3u8
-#EXTINF:-1 tvg-name="Totalmusic" tvg-country="UK" group-title="英国",Totalmusic
-https://cdn.global.elektamedia.com/live/c7eds/Totalmusic/SA_LIVE_hls_enc/master.m3u8
 #EXTINF:-1 tvg-name="Totalmusic 2000s" tvg-country="UK" group-title="英国",Totalmusic 2000s
 https://cdn.global.elektamedia.com/live/c7eds/Totalmusic_00s/SA_LIVE_hls_enc/master.m3u8
 #EXTINF:-1 tvg-name="Totalmusic 80s" tvg-country="UK" group-title="英国",Totalmusic 80s
 https://cdn.global.elektamedia.com/live/c7eds/Totalmusic_80s/SA_LIVE_hls_enc/master.m3u8
+#EXTINF:-1 tvg-name="Totalmusic Concerts" tvg-country="UK" group-title="英国",Totalmusic Concerts
+https://cdn.global.elektamedia.com/live/c7eds/Totalmusic_Concerts/SA_LIVE_hls_enc/master.m3u8
 #EXTINF:-1 tvg-name="Totalmusic Dance" tvg-country="UK" group-title="英国",Totalmusic Dance
 https://cdn.global.elektamedia.com/live/c7eds/Totalmusic_Dance/SA_LIVE_hls_enc/master.m3u8
 #EXTINF:-1 tvg-name="Trace UK" tvg-country="UK" group-title="英国",Trace UK
