@@ -1,0 +1,73 @@
+name: Update eja.tv playlist
+
+on:
+  workflow_dispatch:
+    inputs:
+      countries:
+        description: "Comma-separated eja.tv country codes"
+        required: true
+        default: "jp,us,uk"
+      max_pages:
+        description: "Maximum pages per country (1500 reaches the final page)"
+        required: true
+        default: "1500"
+  schedule:
+    - cron: "17 */4 * * *"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: update-ejatv-playlist
+  cancel-in-progress: false
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    timeout-minutes: 90
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Crawl public channels
+        shell: bash
+        run: |
+          COUNTRIES="jp,us,uk"
+          MAX_PAGES="1500"
+          EXTRA_ARGS=()
+          if [[ "${{ github.event_name }}" == "workflow_dispatch" ]]; then
+            COUNTRIES="${{ inputs.countries }}"
+            MAX_PAGES="${{ inputs.max_pages }}"
+            EXTRA_ARGS=(--allow-partial)
+          fi
+          IFS=',' read -ra CODES <<< "$COUNTRIES"
+          PIDS=()
+          for RAW_CODE in "${CODES[@]}"; do
+            COUNTRY="$(echo "$RAW_CODE" | xargs | tr '[:upper:]' '[:lower:]')"
+            [[ "$COUNTRY" =~ ^[a-z]{2}$ ]] || { echo "Invalid country: $RAW_CODE"; exit 2; }
+            (
+              python eja_tv_scraper.py --country "$COUNTRY" --output "playlist/$COUNTRY" \
+                --delay 0.4 --max-pages "$MAX_PAGES" --validate --workers 16 \
+                --probe-timeout 7 "${EXTRA_ARGS[@]}"
+            ) &
+            PIDS+=("$!")
+          done
+          STATUS=0
+          for PID in "${PIDS[@]}"; do
+            wait "$PID" || STATUS=1
+          done
+          [[ "$STATUS" -eq 0 ]] || exit "$STATUS"
+          python eja_tv_scraper.py --combine --output playlist --countries us,jp,uk
+          cp playlist/ejatv.m3u ejatv.m3u
+      - name: Commit updated playlist
+        run: |
+          git add ejatv.m3u
+          if git diff --cached --quiet; then
+            echo "Playlist is unchanged."
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git commit -m "chore: update eja.tv playlist"
+          git push
